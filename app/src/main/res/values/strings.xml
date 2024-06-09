@@ -1,0 +1,18 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">COP4656 - Assignment 3</string>
+    <string name="game_name">ROCK | PAPER | SPEAR</string>
+    <string name="player_vs_comp">Sir Droid-a-lot VS Merlin</string>
+    <string name="objective">Beat Merlin, your magical opponent!</string>
+    <string name="objective2">Best 2 out of 3 WINS!</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="spear">SPEAR</string>
+    <string name="submit_button">Try Again!</string>
+    <string name="student_name">Developed by: Erika Avila</string>
+    <string name="title_activity_main">COP4656 - Assignment 3 | Rock, Paper, Spear</string>
+    <string name="if_winner">Sir Droid-a-lot has defeated the tricky Merlin, Good Job!</string>
+    <string name="if_loser">Sir Droid-a-lots quest was not successful.</string>
+    <string name="if_tie">Sir Droid-a-lot and Merlin are equally matched</string>
+
+</resources>
